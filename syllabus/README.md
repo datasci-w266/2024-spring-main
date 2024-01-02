@@ -44,7 +44,7 @@ By the completion of this course, students will be able to:
 * Section 1: Tuesday 2:00 - 3:30pm PST (Peter Grabowski)
 * Section 2: Tuesday 4:00 - 5:30pm PST (Jennifer Zhu) 
 * Section 3: Tuesday 6:30 - 8:00pm PST (Jennifer Zhu)
-* Section 4: Tuesday 2:00 - 8:00pm PST (Amit Bhattacharyya)
+* Section 4: Wednesday 2:00 - 3:30pm PST (Amit Bhattacharyya)
 * Section 5: Wednesday 4:00 - 5:30pm PST (Natalie Ahn) 
 * Section 6: Wednesday 6:30 - 8:00pm PST (Mike Tamir/Paul Spiegelhalter)
 * Section 7: Thursday 6:30 - 8:00pm PST (Mark Butler)
