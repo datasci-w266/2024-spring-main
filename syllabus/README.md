@@ -59,8 +59,9 @@ By the completion of this course, students will be able to:
 * **Gurdit Chahal**: Wednesday at 2:30pm PST
 * **Natalie Ahn**: Wednesday at 6pm PST
 * **Mike Tamir/Paul Spiegelhalter**: Wednesday immediately after the live session
-* **Jennifer Zhu**: TBD
+* **Jennifer Zhu**: Thursday at 5:30pm PST
 * **Mark Butler**: TBD
+* **Rachel Gao**: Friday at 10am PST
 
 
 
@@ -90,7 +91,7 @@ Office hours are for the whole class; students from any section are welcome to a
     <li>Ed Discussion
     <li>Google Cloud
   </ul></td>
-  <td>Jan&nbsp;08</td>
+  <td>Jan&nbsp;09</td>
   <td>Jan&nbsp;14</td>
   <td>0%</td>
 </tr>
@@ -262,7 +263,7 @@ We'll update the table below with assignments as they become available, as well 
 
 *Dates are tentative:* Assignments in particular may change topics and dates.  (Updated slides for each week will be posted during the live session week.)
 
-### Live Session Slides [[available with @berkeley.edu address](https://drive.google.com/NO_SLIDES_YET)]
+### Live Session Slides [[available with @berkeley.edu address](https://drive.google.com/drive/folders/1E8h83i39O4l_z0nKf_MYEbQPiwLMLJvo?usp=sharing)]
 
 ### Deliverables
 
