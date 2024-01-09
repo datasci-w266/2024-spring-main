@@ -36,7 +36,7 @@ By the completion of this course, students will be able to:
 **Communication and Resources**
 
 * Course website: [GitHub datasci-w266/2024-spring-main](../../../)
-* [Ed Discussion](https://edstem.org/us): We'll use this for collective Q&A, and this will be the fastest way to reach the course staff. Note that you can post anonymously, or make posts visible only to instructors for private questions.
+* [Ed Discussion](https://edstem.org/us/courses/50126/discussion/): We'll use this for collective Q&A, and this will be the fastest way to reach the course staff. Note that you can post anonymously, or make posts visible only to instructors for private questions.
 * Email list for course staff (expect a somewhat slower response here): [mids-nlp-instructors@googlegroups.com](mailto:mids-nlp-instructors@googlegroups.com)
 
 
