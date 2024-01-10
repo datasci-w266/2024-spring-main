@@ -60,7 +60,7 @@ By the completion of this course, students will be able to:
 * **Natalie Ahn**: Wednesday at 6pm PST
 * **Mike Tamir/Paul Spiegelhalter**: Wednesday immediately after the live session
 * **Jennifer Zhu**: Thursday at 5:30pm PST
-* **Mark Butler**: TBD
+* **Mark Butler**: Thursday at 4pm PST
 * **Rachel Gao**: Friday at 10am PST
 
 
@@ -91,8 +91,8 @@ Office hours are for the whole class; students from any section are welcome to a
     <li>Ed Discussion
     <li>Google Cloud
   </ul></td>
-  <td>Jan&nbsp;09</td>
-  <td>Jan&nbsp;14</td>
+  <td>Jan&nbsp;15</td>
+  <td>Jan&nbsp;21</td>
   <td>0%</td>
 </tr>
 <tr>
@@ -100,8 +100,8 @@ Office hours are for the whole class; students from any section are welcome to a
   <!-- <strong><a href="../assignment/a1" target="_blank">Assignment&nbsp;1</a></strong>  -->
   Assignment&nbsp;1
   <td><strong>Basic Neural Nets</strong></td>
-  <td>Jan&nbsp;12</td>
-  <td>Jan&nbsp;21</td>
+  <td>Jan&nbsp;19</td>
+  <td>Jan&nbsp;28</td>
   <td>5%</td>
 </tr>
 <tr>
