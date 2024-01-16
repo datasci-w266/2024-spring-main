@@ -283,8 +283,8 @@ will be released around the last live session of the week and due approximately 
     <li>GitHub
     <li>Ed Discussion
   </ul></td>
-  <td>Jan&nbsp;08</td>
-  <td>Sep&nbsp;14</td>
+  <td>Jan&nbsp;15</td>
+  <td>Jan&nbsp;21</td>
 </tr
 
 
