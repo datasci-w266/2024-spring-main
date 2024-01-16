@@ -46,12 +46,6 @@ Our approach uses branches in git so each assignment will get put into a git bra
 
 You have one opportunity to do this.  When you are done with the assignment and you have dowlaoded the Colab notebook(s) to replace the original versions in your local git repo and you have filled out the answers file and run commmit
 
-TARGET_BRANCH="a${ASSIGNMENT}-submit"
-REPO_NAME="datasci-w266/2024-spring-assignment-$GITHUB_USERNAME"
-WEB_URL="https://github.com/datasci-w266/2024-spring-assignment-$GITHUB_USERNAME/tree/a0-submit"
-REMOTE_URL="https://github.com/datasci-w266/2024-spring-assignment-$GITHUB_USERNAME.git
-
-REMOTE_ALIAS="2024-spring-assignment-submit"
 
 In your local git repo:
 
