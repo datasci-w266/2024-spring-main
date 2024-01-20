@@ -55,7 +55,7 @@ By the completion of this course, students will be able to:
 
 * **Rajiv Nair**: Monday at 4pm PST
 * **Peter Grabowski**: Tuesday at 1pm PST
-* **Amit Bhattacharyya**: TBD
+* **Amit Bhattacharyya**: Friday at 11am PST
 * **Gurdit Chahal**: Wednesday at 2:30pm PST
 * **Natalie Ahn**: Wednesday at 6pm PST
 * **Mike Tamir/Paul Spiegelhalter**: Wednesday immediately after the live session
@@ -286,6 +286,16 @@ will be released around the last live session of the week and due approximately 
   <td>Jan&nbsp;15</td>
   <td>Jan&nbsp;21</td>
 </tr
+
+<tr> <!-- a1 -->
+  <td><strong><a href="../assignment/a1" target="_blank">Assignment&nbsp;1</a></strong>
+  <td><strong>Assignment&nbsp;1</strong>
+  <ul>
+    <li>Neural Networks
+  </ul></td>
+  <td>Jan&nbsp;19</td>
+  <td>Jan&nbsp;28</td>
+</tr>
 
 
 <tr> <!-- project proposal -->
