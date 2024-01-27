@@ -298,6 +298,18 @@ will be released around the last live session of the week and due approximately 
 </tr>
 
 
+<tr>  <!-- a2 -->
+  <td><strong><a href="../assignment/a2" target="_blank">Assignment&nbsp;2</a></strong>
+  <td><strong>Assignment 2</strong>
+  <ul>
+    <li>Text Classification
+  </ul></td>
+  <td>Jan&nbsp;26</td>
+  <td>Feb&nbsp;11</td>
+</tr>
+
+
+
 <tr> <!-- project proposal -->
   <td><strong><a href="../project/#project-proposal" target="_blank">Project&nbsp;Proposal</a></strong>
   <td>
