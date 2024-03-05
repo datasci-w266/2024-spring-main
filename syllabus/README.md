@@ -59,7 +59,7 @@ By the completion of this course, students will be able to:
 * **Gurdit Chahal**: Wednesday at 2:30pm PST
 * **Natalie Ahn**: Wednesday at 6pm PST
 * **Mike Tamir/Paul Spiegelhalter**: Wednesday immediately after the live session
-* **Jennifer Zhu**: Thursday at 5:30pm PST
+* **Jennifer Zhu**: Thursday at 6pm PST
 * **Mark Butler**: Thursday at 4pm PST
 * **Rachel Gao**: Friday at 10am PST
 
