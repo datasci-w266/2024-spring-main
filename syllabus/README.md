@@ -128,7 +128,7 @@ Office hours are for the whole class; students from any section are welcome to a
   Assignment&nbsp;4
   <td><strong>Multimodal NLP</strong></td>
   <td>Mar&nbsp;08</td>
-  <td>Mar&nbsp;23</td>
+  <td>Mar&nbsp;24</td>
   <td>10%</td>
 </tr>
 <tr>
