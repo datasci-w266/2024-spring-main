@@ -339,7 +339,7 @@ will be released around the last live session of the week and due approximately 
     <li>Image Captioning
   </ul></td>
   <td>Mar&nbsp;08</td>
-  <td>Mar&nbsp;23</td>
+  <td>Mar&nbsp;24</td>
 </tr>
 
 
